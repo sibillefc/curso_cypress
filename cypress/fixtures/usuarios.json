@@ -1,0 +1,54 @@
+{
+    "usuarios": [
+        {
+            "name": "Jennifer Martin",
+            "email": "jdeleon@hotmail.com",
+            "password": "8C40CvNyof"
+        },
+        {
+            "name": "Jeffrey Lucas",
+            "email": "dmitchell@gmail.com",
+            "password": "2olI3KoUUK"
+        },
+        {
+            "name": "Andrea Paul",
+            "email": "bennettrenee@yahoo.com",
+            "password": "8L0lg5BaSA"
+        },
+        {
+            "name": "Cory Mcguire",
+            "email": "cliffordmorgan@lopez.com",
+            "password": "6gNoUMKr0l"
+        },
+        {
+            "name": "Susan Coleman",
+            "email": "austin66@hotmail.com",
+            "password": "79E4fT1HJS"
+        },
+        {
+            "name": "Nathan Gross",
+            "email": "fnunez@goodwin.com",
+            "password": "6QDCOBBj8x"
+        },
+        {
+            "name": "Ashley Ramos",
+            "email": "bryanjuarez@bradley-kennedy.com",
+            "password": "5w2sLlozV3"
+        },
+        {
+            "name": "Mr. Perry Jenkins",
+            "email": "dawn01@hotmail.com",
+            "password": "BwPqq5Wx57"
+        },
+        {
+            "name": "David Newman",
+            "email": "higginseric@gmail.com",
+            "password": "q2pQ5cm9Oj"
+        },
+        {
+            "name": "Alexander Morris",
+            "email": "melindahansen@sanchez.info",
+            "password": "b0aWwK1iM0"
+        }
+    ]
+}

@@ -4,6 +4,13 @@
     cy.get('[data-test="submit-button"]').click();
 })
 
+Cypress.Commands.add('cadastro', (nome, email, senha, confirmaSenha) => { 
+    cy.get('[data-test="input-name"]').clear().type(nome);
+    cy.get('[data-test="input-email"]').clear().type(email);
+    cy.get('[data-test="input-password"]').clear().type(senha);
+    cy.get('[data-test="input-confirm-password"]').clear().type(confirmaSenha);
+    cy.get('[data-test="submit-button"]').click();
+})
 
 // ***********************************************
 // This example commands.js shows you how to
